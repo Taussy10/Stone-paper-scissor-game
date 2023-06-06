@@ -1,2 +1,2 @@
 # stone-paper-scissor
- stone paper and scissor game
+ This is just a game using python
